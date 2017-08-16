@@ -9,7 +9,7 @@ and many have been featured as top apps in the Apple App Store, Google Play Stor
 Ionic is a collection of CSS and Javascript components based on Angular 2. The core philosophy behind
 Ionic is that a web developer can use the standard HTML5/CSS/Javascript stack they already know and love,
 but get real mobile components underneath that adapt automatically to the device and platform they
-run on. victor i need you tech support and help
+run on.
 
 ## New to Ionic?
 
