@@ -59,9 +59,7 @@ export class MockProvider {
     'Kick-Ass',
     'Drive Angry',
   ];
-
 }
-
 
 @Component({
   templateUrl: 'main.html',
@@ -87,7 +85,6 @@ class ApiDemoApp {
       }
     });
   }
-
 }
 
 ionicBootstrap(ApiDemoApp);
